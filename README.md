@@ -30,7 +30,7 @@ I am a passionate Full-stack Developer focused on building clean, high-performan
 
 **Frontend:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react)](https://skillicons.dev)
 
 **Learning / Expanding into Backend:**
 
