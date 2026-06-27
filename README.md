@@ -29,12 +29,15 @@ I am a passionate Full-stack Developer focused on building clean, high-performan
 ### 🛠️ Tech Stack & Tools
 
 **Frontend:**
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts)](https://skillicons.dev)
 
 **Learning / Expanding into Backend:**
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mongoose,postgres,nodejs,express)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,nodejs,express)](https://skillicons.dev)
 
 **Tools:**
+
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
 
 ---
