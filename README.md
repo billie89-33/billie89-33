@@ -30,7 +30,7 @@ I am a passionate Full-stack Developer focused on building clean, high-performan
 
 **Frontend:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts)](https://skillicons.dev)
 
 **Learning / Expanding into Backend:**
 
@@ -42,19 +42,3 @@ I am a passionate Full-stack Developer focused on building clean, high-performan
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=billie89-33&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billie89-33&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=billie89-33&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%">
-</p>
-
----
-
-<p align="center">
-  <i>Let's build something awesome together! 🚀</i>
-</p>
