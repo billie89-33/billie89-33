@@ -40,9 +40,3 @@ I'm a **Full-Stack Developer** with a background in web operations and SEO. I sp
   - **Data Integration:** Prisma ORM connected to PostgreSQL, alongside Cloudinary for media storage.
   
 ---
-
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=billie89-33&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=d1d5db&icon_color=38bdf8" alt="Bowvorn's GitHub Stats" />
-</p>
