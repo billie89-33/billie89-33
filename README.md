@@ -4,7 +4,9 @@
   <a href="https://linkedin.com/in/bowvorn-kimhoylai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://portfolio-jet-one-huqu57b78e.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
+
 ### 👨‍💻 About Me
+
 I'm a **Software Developer** interested in building web applications and solving real-world problems through technology. I enjoy working across both frontend and backend development, turning ideas into practical solutions with clean, maintainable code.<br><br>
 🌱 **Currently exploring:** Modern web technologies, software architecture, and database design.<br>
 🛠️ **Interested in:** Full-stack development, API design, and building reliable, user-friendly applications.<br>
