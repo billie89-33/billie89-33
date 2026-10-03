@@ -1,8 +1,16 @@
-I'm a **Software Developer** passionate about crafting efficient and user-centric digital experiences. With a strong foundation in modern web technologies, I enjoy transforming complex requirements into clean, maintainable code—whether it's building engaging frontend interfaces or designing reliable backend systems.<br><br>
-🔭 **Currently building:** Enterprise-level architectures using **Angular & .NET**, alongside Next.js & NestJS.<br>
-🌱 **Currently exploring:** Advanced database optimizations, C# backend patterns, and CI/CD workflows.<br>
-👯 **Looking to collaborate on:** Meaningful software projects or innovative startups.<br>
-📫 **How to reach me:** Feel free to contact me via Email or LinkedIn!
+# Hi there, I'm Bowvorn (Billie) 👋
+<p align="left">
+  <a href="mailto:bowvorn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/bowvorn-kimhoylai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://portfolio-jet-one-huqu57b78e.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+</p>
+### 👨‍💻 About Me
+I'm a **Software Developer** interested in building web applications and solving real-world problems through technology. I enjoy working across both frontend and backend development, turning ideas into practical solutions with clean, maintainable code.<br><br>
+🌱 **Currently exploring:** Modern web technologies, software architecture, and database design.<br>
+🛠️ **Interested in:** Full-stack development, API design, and building reliable, user-friendly applications.<br>
+🤝 **Open to:** Collaborating on projects, sharing ideas, and learning from other developers.<br>
+📫 **Contact:** Feel free to reach out via Email or LinkedIn!
+  
 ---
 
 ### 🛠️ Tech Stack & Tools
