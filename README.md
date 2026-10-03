@@ -11,13 +11,17 @@ I'm a **Full-Stack Developer** with a background in web operations and SEO. I sp
 📫 **How to reach me:** Feel free to contact me via Email or LinkedIn!
   
 ---
+
 ### 🛠️ Tech Stack & Tools
 **Frontend Development:**<br>
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind)](https://skillicons.dev)
+
 **Backend & Databases:**<br>
 [![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,cs,dotnet,mongodb,postgres,prisma)](https://skillicons.dev)
+
 **Tools & Workflow:**<br>
 [![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,figma,vercel)](https://skillicons.dev)
+
 ---
 ### 🌟 Featured Projects
 #### 1. Jamine ERP & E-Commerce (Angular 18 + .NET 8)
