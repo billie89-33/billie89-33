@@ -13,11 +13,11 @@ I'm a **Full-Stack Developer** with a background in web operations and SEO. I sp
   
 ---
 ### 🛠️ Tech Stack & Tools
-**Frontend Development:** <br>
+**Frontend Development:**
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind)](https://skillicons.dev)
-**Backend & Databases:** <br>
+**Backend & Databases:**
 [![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,cs,dotnet,mongodb,postgres,prisma)](https://skillicons.dev)
-**Tools & Workflow:** <br>
+**Tools & Workflow:**
 [![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,figma,vercel)](https://skillicons.dev)
 ---
 ### 🌟 Featured Projects
@@ -37,5 +37,3 @@ A modern, high-performance web platform built for high scalability, security, an
 - **Backend Highlights (NestJS / Node):**
   - **Auth & Security:** Robust JWT-based authentication and Role-Based Access Control (RBAC).
   - **Data Integration:** Prisma ORM connected to PostgreSQL, alongside Cloudinary for media storage.
-
----
